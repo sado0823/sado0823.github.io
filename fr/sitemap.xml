@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://github.com/sado0823/sado0823.github.io/blob/master/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/fr/categories/"
                 />
   </url><url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://github.com/sado0823/sado0823.github.io/blob/master/fr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/fr/"
                 />
   </url><url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://github.com/sado0823/sado0823.github.io/blob/master/fr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://github.com/sado0823/sado0823.github.io/blob/master/fr/tags/"
                 />
   </url>
 </urlset>
