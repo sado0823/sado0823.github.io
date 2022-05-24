@@ -40,7 +40,12 @@ const config = {
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+         blogTitle: "Sado's Blog",
+          blogDescription: "Sado's personal Blog",
           showReadingTime: true,
+          postsPerPage: 3,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All my posts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
