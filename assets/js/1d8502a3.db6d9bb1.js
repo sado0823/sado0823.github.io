@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[543],{1418:function(e){e.exports=JSON.parse('{"label":"bloom","permalink":"/blog/tags/bloom","allTagsPath":"/blog/tags","count":1}')}}]);
