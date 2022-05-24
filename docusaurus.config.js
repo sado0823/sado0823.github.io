@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: '/img/favicon.ico',
+  favicon: '/img/emoji.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -40,7 +40,7 @@ const config = {
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-         blogTitle: "Sado's Blog",
+          blogTitle: "Sado's Blog",
           blogDescription: "Sado's personal Blog",
           showReadingTime: true,
           postsPerPage: 3,
@@ -65,7 +65,7 @@ const config = {
         title: 'Go-Kitx',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/emoji.svg',
         },
         items: [
           {
@@ -74,7 +74,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/sado0823/go-kitx',
             label: 'GitHub',
