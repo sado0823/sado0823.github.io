@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[3410],{4401:function(e){e.exports=JSON.parse('{"label":"uncle bob","permalink":"/blog/tags/uncle-bob","allTagsPath":"/blog/tags","count":1}')}}]);

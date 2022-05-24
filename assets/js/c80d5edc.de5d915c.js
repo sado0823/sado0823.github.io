@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[5407],{9213:function(e){e.exports=JSON.parse('{"label":"architecture","permalink":"/blog/tags/architecture","allTagsPath":"/blog/tags","count":1}')}}]);
