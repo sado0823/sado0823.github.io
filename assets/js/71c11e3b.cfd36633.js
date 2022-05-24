@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[5255],{5228:function(e){e.exports=JSON.parse('{"label":"docker-compose","permalink":"/blog/tags/docker-compose","allTagsPath":"/blog/tags","count":1}')}}]);
