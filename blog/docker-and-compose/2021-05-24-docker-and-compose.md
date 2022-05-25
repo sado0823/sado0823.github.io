@@ -3,7 +3,7 @@ slug: docker-and-compose
 title: Docker And Docker-Compose
 authors: [sado]
 tags: [golang, docker, docker-compose]
-date: 2022-05-24T18:50
+date: 2021-05-24T18:50
 ---
 
 

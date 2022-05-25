@@ -1,9 +1,9 @@
 ---
-slug: websocket-swoft
-title: Websocket And Swoft
+slug: websocket-swoole
+title: Websocket And swoole
 authors: [sado]
 tags: [php, websocket, tcp]
-date: 2022-05-24T18:35
+date: 2020-05-24T18:35
 ---
 
 ## 1.Websocket
