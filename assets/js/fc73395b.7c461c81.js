@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[6412],{7025:function(e){e.exports=JSON.parse('{"label":"nginx","permalink":"/blog/tags/nginx","allTagsPath":"/blog/tags","count":1}')}}]);

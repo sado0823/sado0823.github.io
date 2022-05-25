@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[8442],{5310:function(e){e.exports=JSON.parse('{"permalink":"/blog/page/3","page":3,"postsPerPage":3,"totalPages":4,"totalCount":10,"previousPage":"/blog/page/2","nextPage":"/blog/page/4","blogDescription":"Sado\'s personal Blog","blogTitle":"Sado\'s Blog"}')}}]);

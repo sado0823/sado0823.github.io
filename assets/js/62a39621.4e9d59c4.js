@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[8728],{2306:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/redis/page/2","page":2,"postsPerPage":3,"totalPages":2,"totalCount":5,"previousPage":"/blog/tags/redis","blogDescription":"Sado\'s personal Blog","blogTitle":"Sado\'s Blog"}')}}]);
