@@ -82,6 +82,11 @@ const config = {
           },
         ],
       },
+      algolia: {
+        apiKey: '6e927a1fd7d99c2bc33be265eb1b0e46',
+        appId: 'Y6EGDIBDW1',
+        indexName: 'sado0823.github.io',
+      },
       footer: {
         style: 'dark',
         links: [
