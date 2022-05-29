@@ -76,6 +76,11 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
+            label: 'Tags',
+            to: '/blog/tags',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/sado0823/go-kitx',
             label: 'GitHub',
             position: 'right',
