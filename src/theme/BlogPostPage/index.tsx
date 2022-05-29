@@ -49,7 +49,7 @@ function BlogPostPage(props) {
   return (
     <BlogLayout
       wrapperClassName={ThemeClassNames.wrapper.blogPages}
-      pageClassName={ThemeClassNames.page.blogPostPage}
+      // pageClassName={ThemeClassNames.page.blogPostPage}
       sidebar={sidebar}
       toc={
         !hideTableOfContents && BlogPostContents.toc && BlogPostContents.toc.length > 0 ? (
