@@ -116,6 +116,13 @@ func main(){
 
 
 ### 4) 效果
+在打印或者记录错误, 一般由日志中间件在最上层完成, 使用占位符 `%+v`, 比如
+```go
+// log error with stack
+
+fmt.Printf("err:%+v", err)
+```
+
 ![error-show](./go.assets/error-show.png)
 
 
