@@ -14,6 +14,7 @@ function TagsListByLetter({ tags }) {
   })
   return (
     <TagCloud
+      key="tag-cloud"
       className="tag-cloud"
       minSize={24}
       maxSize={128}
