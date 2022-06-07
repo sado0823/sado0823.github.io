@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[5449],{2067:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/docker/page/2","page":2,"postsPerPage":3,"totalPages":2,"totalCount":4,"previousPage":"/blog/tags/docker","blogDescription":"Sado\'s personal Blog","blogTitle":"Sado\'s Blog"}')}}]);
