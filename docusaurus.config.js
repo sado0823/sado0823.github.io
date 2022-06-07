@@ -69,17 +69,11 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            type: 'doc', docId: 'intro', position: 'left', label: 'Tutorial',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            label: 'Tags',
-            to: '/blog/tags',
-            position: 'right',
-          },
+          { to: '/blog/archive', label: 'Archive', position: 'right' },
+          { to: '/blog/tags', label: 'Tags', position: 'right', },
           {
             href: 'https://github.com/sado0823/go-kitx',
             label: 'GitHub',
