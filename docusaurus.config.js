@@ -61,6 +61,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_me',
+        content: '⭐️ 如果这个网站能帮助到你,欢迎给一个star支持作者  <a target="_blank" rel="noopener noreferrer" href="https://github.com/sado0823/go-kitx">GitHub</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
       navbar: {
         title: 'Go-Kitx',
         logo: {
@@ -86,55 +93,55 @@ const config = {
         appId: 'Y6EGDIBDW1',
         indexName: 'sado0823.github.io',
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                html: `<a href="mailto:sadosado0823@gmail.com?subject=from sado0823.github.io">Email</a>`,
-              },
-              // {
-              //   label: 'Stack Overflow',
-              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              // },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/docusaurus',
-              // },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       title: 'Docs',
+      //       items: [
+      //         {
+      //           label: 'Tutorial',
+      //           to: '/docs/intro',
+      //         },
+      //         {
+      //           label: 'Blog',
+      //           to: '/blog',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'Community',
+      //       items: [
+      //         {
+      //           html: `<a href="mailto:sadosado0823@gmail.com?subject=from sado0823.github.io">Email</a>`,
+      //         },
+      //         // {
+      //         //   label: 'Stack Overflow',
+      //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+      //         // },
+      //         // {
+      //         //   label: 'Discord',
+      //         //   href: 'https://discordapp.com/invite/docusaurus',
+      //         // },
+      //         // {
+      //         //   label: 'Twitter',
+      //         //   href: 'https://twitter.com/docusaurus',
+      //         // },
+      //       ],
+      //     },
+      //     {
+      //       title: 'More',
+      //       items: [
 
-              {
-                label: 'GitHub',
-                href: 'https://github.com/sado0823/go-kitx',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Go-Kitx, Inc. Built with Docusaurus.`,
-      },
+      //         {
+      //           label: 'GitHub',
+      //           href: 'https://github.com/sado0823/go-kitx',
+      //         },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} Go-Kitx, Inc.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

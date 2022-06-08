@@ -3,3 +3,5 @@ npm run swizzle   @docusaurus/theme-classic BlogPostPage  -- --danger
 npm run swizzle   @docusaurus/theme-classic BlogArchivePage  -- --danger
 
 npm run swizzle @docusaurus/theme-classic TagsListByLetter  -- --danger
+
+npm run swizzle -- --list
