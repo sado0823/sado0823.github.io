@@ -8,7 +8,7 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Give me a star at here <a target="_blank" rel="noopener noreferrer" href="https://github.com/sado0823/go-kitx">GitHub</a>
+        Give me a star here <a target="_blank" rel="noopener noreferrer" href="https://github.com/sado0823/go-kitx">GitHub</a>
       </>
     ),
   },
