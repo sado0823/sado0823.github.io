@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[6242],{4935:function(e){e.exports=JSON.parse('{"label":"sre","permalink":"/blog/tags/sre","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_kitx_webside=self.webpackChunkgo_kitx_webside||[]).push([[8318],{4483:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/golang/page/4","page":4,"postsPerPage":3,"totalPages":4,"totalCount":12,"previousPage":"/blog/tags/golang/page/3","blogDescription":"Sado\'s personal Blog","blogTitle":"Sado\'s Blog"}')}}]);
