@@ -1,8 +1,8 @@
 {
-  "label": "GRPC",
+  "label": "http",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "all things aboud GRPC"
+    "description": "all things aboud http"
   }
 }

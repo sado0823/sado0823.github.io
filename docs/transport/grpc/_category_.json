@@ -1,0 +1,8 @@
+{
+  "label": "grpc",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "all things aboud grpc"
+  }
+}

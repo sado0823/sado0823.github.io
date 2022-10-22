@@ -1,0 +1,8 @@
+{
+  "label": "pbchain",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "内置中间件"
+  }
+}
